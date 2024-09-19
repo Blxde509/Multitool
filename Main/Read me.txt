@@ -1,0 +1,1 @@
+When you press a option the menu will close just reopen it if it does.
